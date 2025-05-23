@@ -16,7 +16,7 @@
 - 📈 Continuously learning about language models, data visualization, and machine learning.
 - ✍️ Academic publications in biology and applied technologies: [My ORCID](https://orcid.org/0009-0009-2812-0913).
 - 📫 Contact me at: **flor.gosuna@gmail.com**
-- 📄 Learn more about my experience: [Resume](./Florencia_Gomez_Resume.pdf)
+- 📄 Learn more about my experience: [Resume](./Resume.pdf)
 
 
 ---
